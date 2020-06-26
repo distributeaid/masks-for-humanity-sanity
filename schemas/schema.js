@@ -13,6 +13,10 @@ export default createSchema({
           name: "photo",
           type: "image",
           required: true,
+          options: {
+            storeOriginalFilename: false,
+            hotspot: true,
+          },
         },
         {
           title: "Title",
