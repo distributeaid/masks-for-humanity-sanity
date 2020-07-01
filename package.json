@@ -1,26 +1,26 @@
 {
-  "name": "@distributeaid/masks-for-solidarity-sanity",
+  "name": "@distributeaid/masks-for-humanity-sanity",
   "version": "0.0.0-development",
-  "description": "Sanity Studio configuration for Masks for Solidarity",
+  "description": "Sanity Studio configuration for Masks for Humanity",
   "scripts": {
     "start": "sanity start",
     "test": "sanity check"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/distributeaid/masks-for-solidarity-sanity.git"
+    "url": "git+https://github.com/distributeaid/masks-for-humanity-sanity.git"
   },
   "keywords": [
     "sanity.io",
     "Distribute Aid",
-    "Masks for Solidarity"
+    "Masks for Humanity"
   ],
   "author": "Distribute Aid | https://distributeaid.org/",
   "license": "AGPL-3.0-only",
   "bugs": {
-    "url": "https://github.com/distributeaid/masks-for-solidarity-sanity/issues"
+    "url": "https://github.com/distributeaid/masks-for-humanity-sanity/issues"
   },
-  "homepage": "https://github.com/distributeaid/masks-for-solidarity-sanity#readme",
+  "homepage": "https://github.com/distributeaid/masks-for-humanity-sanity#readme",
   "devDependencies": {
     "@sanity/base": "^1.149.16",
     "@sanity/cli": "^1.149.16",

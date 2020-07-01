@@ -1,4 +1,4 @@
-# [Sanity.io](https://sanity.io) Studio Configuration for [Masks for Solidarity](https://github.com/distributeaid/masks-for-solidarity.git)
+# [Sanity.io](https://sanity.io) Studio Configuration for [Masks for Humanity](https://github.com/distributeaid/masks-for-humanity.git)
 
     npm ci
     npm start
