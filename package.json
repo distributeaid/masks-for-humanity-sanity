@@ -4,7 +4,8 @@
   "description": "Sanity Studio configuration for Masks for Humanity",
   "scripts": {
     "start": "sanity start",
-    "test": "sanity check"
+    "test": "sanity check",
+    "build": "sanity build"
   },
   "repository": {
     "type": "git",
