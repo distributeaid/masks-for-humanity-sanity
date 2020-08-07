@@ -15,7 +15,7 @@ The Studio is served from this repository's GitHub pages: http://distributeaid.g
 After cloning the project, run:
 
     npm ci
-    npm run-script setup
+    npm run login
     npm start
 
 The Studio is served from http://localhost:3333
