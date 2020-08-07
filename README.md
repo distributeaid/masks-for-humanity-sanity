@@ -6,11 +6,16 @@
 
 The Studio is served from this repository's GitHub pages: http://distributeaid.github.io/masks-for-humanity-sanity/
 
+## Docs
+
+  * [Sanity Docs](https://www.sanity.io/docs/overview-introduction)
+
 ## Local development
 
 After cloning the project, run:
 
     npm ci
+    npm run login
     npm start
 
 The Studio is served from http://localhost:3333

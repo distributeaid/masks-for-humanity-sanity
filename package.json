@@ -3,6 +3,7 @@
   "version": "0.0.0-development",
   "description": "Sanity Studio configuration for Masks for Humanity",
   "scripts": {
+    "login": "sanity login",
     "start": "sanity start",
     "test": "sanity check",
     "build": "sanity build"
