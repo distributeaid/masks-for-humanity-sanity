@@ -22,7 +22,24 @@ export default createSchema({
           title: "Title",
           name: "title",
           type: "string",
-          required: false,
+          required: true,
+        },
+      ],
+    },
+    {
+      name: "sponsor",
+      type: "document",
+      title: "Sponsor",
+      fields: [
+        {
+          name: "name",
+          type: "string",
+          required: true,
+        },
+        {
+          name: "logo",
+          type: "image",
+          required: true,
         },
       ],
     },
