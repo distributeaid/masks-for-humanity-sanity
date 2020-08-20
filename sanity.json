@@ -5,8 +5,8 @@
     "dataset": "production"
   },
   "project": {
-    "name": "masks-for-humanity",
-    "basePath": "/masks-for-humanity-sanity"
+    "name": "refugees.care",
+    "basePath": "/refugees.care-sanity"
   },
   "plugins": [
     "@sanity/base",

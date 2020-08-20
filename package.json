@@ -1,7 +1,7 @@
 {
-  "name": "@distributeaid/masks-for-humanity-sanity",
+  "name": "@distributeaid/refugees.care-sanity",
   "version": "0.0.0-development",
-  "description": "Sanity Studio configuration for Masks for Humanity",
+  "description": "Sanity Studio configuration for refugees.care",
   "scripts": {
     "login": "sanity login",
     "start": "sanity start",
@@ -10,19 +10,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/distributeaid/masks-for-humanity-sanity.git"
+    "url": "git+https://github.com/distributeaid/refugees.care-sanity.git"
   },
   "keywords": [
     "sanity.io",
     "Distribute Aid",
-    "Masks for Humanity"
+    "refugees.care"
   ],
   "author": "Distribute Aid | https://distributeaid.org/",
   "license": "AGPL-3.0-only",
   "bugs": {
-    "url": "https://github.com/distributeaid/masks-for-humanity-sanity/issues"
+    "url": "https://github.com/distributeaid/refugees.care-sanity/issues"
   },
-  "homepage": "https://github.com/distributeaid/masks-for-humanity-sanity#readme",
+  "homepage": "https://github.com/distributeaid/refugees.care-sanity#readme",
   "devDependencies": {
     "@commitlint/cli": "^9.1.2",
     "@commitlint/config-angular": "^9.1.2",
