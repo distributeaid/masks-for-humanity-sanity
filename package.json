@@ -24,8 +24,8 @@
   },
   "homepage": "https://github.com/distributeaid/refugees.care-sanity#readme",
   "devDependencies": {
-    "@commitlint/cli": "9.1.2",
-    "@commitlint/config-angular": "9.1.2",
+    "@commitlint/cli": "11.0.0",
+    "@commitlint/config-angular": "11.0.0",
     "@sanity/base": "1.150.7",
     "@sanity/cli": "1.150.7",
     "@sanity/components": "1.150.7",
